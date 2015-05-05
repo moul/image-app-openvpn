@@ -28,7 +28,7 @@ OPTARGS=""
 OMIT_SENDSIGS=0
 
 
-# Online C1 - Hacks
+# Scaleway specific
 [ -d /dev/net ] || \
     mkdir -p /dev/net
 [ -c /dev/net/tun ] || \
