@@ -1,6 +1,6 @@
 # Official OpenVPN image on Scaleway
 
-[![Travis](https://img.shields.io/travis/scaleway/image-app-python.svg)](https://travis-ci.org/scaleway/image-app-openvpn)
+[![Travis](https://img.shields.io/travis/scaleway/image-app-openvpn.svg)](https://travis-ci.org/scaleway/image-app-openvpn)
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://hub.scaleway.com/openvpn.html)
 [![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=coming-soon)
 
