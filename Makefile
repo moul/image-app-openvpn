@@ -1,7 +1,7 @@
 DOCKER_NAMESPACE =	armbuild/
 NAME =			scw-app-openvpn
-VERSION =		utopic
-VERSION_ALIASES =	14.10 latest
+VERSION =		latest
+VERSION_ALIASES =	
 TITLE =			Openvpn
 DESCRIPTION =		Openvpn
 SOURCE_URL =		https://github.com/scaleway/image-app-openvpn
